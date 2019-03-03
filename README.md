@@ -17,4 +17,5 @@ numpy and opencv
     starField(size, star_num)
     
 # Example
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+https://youtu.be/c5llH90Jqvc
+
